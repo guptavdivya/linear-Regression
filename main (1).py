@@ -12,10 +12,7 @@ import matplotlib.pyplot as plt
 get_ipython().run_line_magic('matplotlib', 'inline')
 
 
-# In[2]:
-
-
-dataset = pd.read_csv('student_scores.csv')
+print(dataset);
 
 
 # # EDA
